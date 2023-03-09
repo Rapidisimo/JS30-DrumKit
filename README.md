@@ -2,7 +2,7 @@
 
 # My Process
 1. Watch project intro
-2. Code challenge: Build it my self before seeing anything from the tutorial.
+2. Code challenge: Build it myself before seeing anything from the tutorial.
 
 
 ## Project Source Description
