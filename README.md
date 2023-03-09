@@ -4,6 +4,8 @@
 1. Watch project intro
 2. Code challenge: Build it myself before seeing anything from the tutorial.
 
+# Result
+Followed the tutorial and learned a better way of coding it.
 
 ## Project Source Description
 JavaScript30
